@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Yashraj3132/drama123.git/static/css/main.6277bf9f.css",
-    "main.js": "/Yashraj3132/drama123.git/static/js/main.5ad5eb75.js",
-    "static/media/background.avif": "/Yashraj3132/drama123.git/static/media/background.101c450fb3566b9b6619.avif",
-    "static/media/image2.png": "/Yashraj3132/drama123.git/static/media/image2.042f24780eac8a8d0e65.png",
-    "static/media/image1.png": "/Yashraj3132/drama123.git/static/media/image1.cab949027fd0f8b9d247.png",
-    "index.html": "/Yashraj3132/drama123.git/index.html",
-    "main.6277bf9f.css.map": "/Yashraj3132/drama123.git/static/css/main.6277bf9f.css.map",
-    "main.5ad5eb75.js.map": "/Yashraj3132/drama123.git/static/js/main.5ad5eb75.js.map"
+    "main.css": "/drama1234/static/css/main.6277bf9f.css",
+    "main.js": "/drama1234/static/js/main.64d7604f.js",
+    "static/media/background.avif": "/drama1234/static/media/background.101c450fb3566b9b6619.avif",
+    "static/media/image2.png": "/drama1234/static/media/image2.042f24780eac8a8d0e65.png",
+    "static/media/image1.png": "/drama1234/static/media/image1.cab949027fd0f8b9d247.png",
+    "index.html": "/drama1234/index.html",
+    "main.6277bf9f.css.map": "/drama1234/static/css/main.6277bf9f.css.map",
+    "main.64d7604f.js.map": "/drama1234/static/js/main.64d7604f.js.map"
   },
   "entrypoints": [
     "static/css/main.6277bf9f.css",
-    "static/js/main.5ad5eb75.js"
+    "static/js/main.64d7604f.js"
   ]
 }
